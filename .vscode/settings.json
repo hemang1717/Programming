@@ -1,3 +1,4 @@
 {
-    "C_Cpp.default.compilerPath": "c:\\Users\\DELL\\Desktop\\Programming\\hello.cpp"
+    "C_Cpp.default.compilerPath": "c:\\Users\\DELL\\Desktop\\Programming\\hello.cpp",
+    "cmake.configureOnOpen": false
 }
